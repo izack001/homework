@@ -1,0 +1,55 @@
+
+body {background: #777;
+	text-align: center;
+	font-size: 18px;
+	width: 100%;
+	font-family: 'Arial';
+}
+
+
+header {background: lightgray;
+	}
+
+nav {background: lightblue; 
+
+}
+
+#content{background:blue;
+	float:left;
+	width:50%;
+	height:190px;
+
+}
+
+#hbox {
+	background: brown;
+	margin:10px;
+}
+
+article {background: red;
+	padding:20px;
+
+
+	} 
+
+h1 {background: lightgray;
+	
+}
+
+#left-column {background: green;
+	margin:10px;
+
+	}
+
+aside {background :purple;
+	float:right;
+	width:50%;
+	height:190px;
+
+	}
+
+footer {background :yellow;
+	clear:both;
+	padding:20px;
+	}
+
